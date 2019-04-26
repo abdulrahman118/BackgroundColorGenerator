@@ -1,1 +1,3 @@
-# BackgroundColorGenerator
+# Background Color Generator
+
+A background color picker
